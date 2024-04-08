@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Z:/Git/Shader/Content/Shader/Basics/M_UVScroll.uasset",
+				"Z:/Git/Shader/Content/Map/Lv_Starter.umap",
 				"Z:/Dropbox/Dropbox/_WORK/002_UnrealEngine/Shader/Content/Shader/Advanced/M_Polar.uasset",
 				"Z:/Dropbox/Dropbox/_WORK/002_UnrealEngine/Shader/Content/Map/Lv_Starter.umap",
 				"Z:/Dropbox/Dropbox/_WORK/002_UnrealEngine/Shader/Content/Shader/Basics/M_FirstShader.uasset",
