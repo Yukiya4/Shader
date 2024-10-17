@@ -8,7 +8,7 @@ https://zenn.dev/yukiya25/books/632aed9cf3a2be
 
 ▼ <b>ご指摘</b></br>
 ご指摘や修正してほしい箇所がありましたら「Issues」を開くか、</br>
-ツイッター上でご連絡ください。
+ツイッター上でご連絡ください。(@ko_yuki_lo)
 
 ▼ <b>ご希望・ご提案</b></br>
 今後のシェーダーのご希望などがあれば「Discussions」タブより</br>
