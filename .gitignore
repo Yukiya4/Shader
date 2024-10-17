@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Sandbox
 Content/Sandbox/*
+
+# StarterContent
+Content/StarterContent/*
