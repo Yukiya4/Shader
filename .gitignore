@@ -78,3 +78,6 @@ Content/Sandbox/*
 
 # StarterContent
 Content/StarterContent/*
+
+#config 
+Config/*
